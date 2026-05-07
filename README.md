@@ -12,16 +12,15 @@
 
 - 🎓 Recently completed **Cloud Data Engineering**
 - 🌱 Currently learning **Advanced Data Engineering & Distributed Systems**
-- ⚡ Interested in building scalable and efficient data solutions
+- ⚡ Interested in data pipelines, automation, and cloud-based solutions
 - 💬 Ask me about:
   - Python
   - SQL
   - Pandas
   - Web Scraping
-  - Docker
   - Apache Airflow
   - Apache Kafka
-  - AWS
+  - AWS (Cloud Basics)
   - ETL Pipelines
 
 ---
@@ -31,20 +30,16 @@
 ## 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 - Python
+- JavaScript
 - SQL
-- Shell Scripting
 
 ---
 
-# 📊 Data Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
+# 📊 Data Engineering Skills
 
 - Pandas
 - ETL Pipelines
@@ -55,27 +50,26 @@
 
 ---
 
-# ☁️ Cloud & DevOps
+# ☁️ Cloud Knowledge
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-- Apache Airflow
-- Apache Kafka
-- Workflow Automation
-- Cloud Fundamentals
+- AWS Basics
+- Cloud Data Storage Concepts
+- Data Pipeline Deployment Concepts
 
 ---
 
 # 📚 Currently Learning
 
-- Advanced Airflow DAGs
+- Apache Airflow DAGs
 - Kafka Streaming
 - Spark & PySpark
 - Data Warehousing
 - AWS Data Services
-- Distributed Systems
+- Distributed Data Systems
 
 ---
 
@@ -91,7 +85,7 @@
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Contact
 
 📫 Email: **muhammadanusqasim272@gmail.com**
 
@@ -101,10 +95,10 @@
 
 # ⚡ Fun Fact
 
-> “Data is the new oil, but pipelines are the refineries.” 🚀
+> “Data pipelines make raw data useful 🚀”
 
 ---
 
 <p align="center">
-  ⭐ Growing as a Cloud & Data Engineer ⭐
+  ⭐ Focused on Data Engineering & Cloud Learning Journey ⭐
 </p>
