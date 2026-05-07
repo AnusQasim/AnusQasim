@@ -34,7 +34,6 @@
 </p>
 
 - Python
-- JavaScript
 - SQL
 
 ---
