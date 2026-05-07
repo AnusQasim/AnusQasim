@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Anus Qasim</h1>
-<h3 align="center">Cloud & Data Engineer | Python Developer | Building Scalable Data Pipelines</h3>
+
+<h3 align="center">Cloud & Data Engineer | Python Developer</h3>
 
 <p align="center">
   Passionate about Data Engineering, Cloud Technologies, Automation, and Scalable Systems 🚀
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/anusqasim">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="https://github.com/AnusQasim">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
@@ -21,14 +12,7 @@
 
 - 🎓 Recently completed **Cloud Data Engineering**
 - 🌱 Currently learning **Advanced Data Engineering & Distributed Systems**
-- 🔭 Building real-world **Data Engineering Projects**
-- ⚡ Strong interest in:
-  - Data Pipelines
-  - ETL Workflows
-  - Cloud Infrastructure
-  - Big Data Technologies
-  - Workflow Automation
-
+- ⚡ Interested in building scalable and efficient data solutions
 - 💬 Ask me about:
   - Python
   - SQL
@@ -38,7 +22,7 @@
   - Apache Airflow
   - Apache Kafka
   - AWS
-  - Data Engineering
+  - ETL Pipelines
 
 ---
 
@@ -47,12 +31,16 @@
 ## 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash" />
+  <img src="https://skillicons.dev/icons?i=python,bash" />
 </p>
+
+- Python
+- SQL
+- Shell Scripting
 
 ---
 
-## 📊 Data Engineering
+# 📊 Data Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
@@ -67,7 +55,7 @@
 
 ---
 
-## ☁️ Cloud & DevOps
+# ☁️ Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
@@ -75,16 +63,8 @@
 
 - Apache Airflow
 - Apache Kafka
-- CI/CD Basics
 - Workflow Automation
-
----
-
-## 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,firebase" />
-</p>
+- Cloud Fundamentals
 
 ---
 
@@ -96,17 +76,6 @@
 - Data Warehousing
 - AWS Data Services
 - Distributed Systems
-
----
-
-# 📂 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| Expense Tracker | Full Stack Expense Management App | NextJS, TypeScript |
-| ETL Pipeline Project | Automated ETL Workflow | Python, Pandas, SQL |
-| Web Scraping Pipeline | Extract & Transform Web Data | BeautifulSoup, Pandas |
-| Data Analytics Dashboard | Data Visualization Project | Python, SQL |
 
 ---
 
@@ -122,23 +91,11 @@
 
 ---
 
-# 🧰 Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,docker,aws,linux,git,github,postgres,mongodb,nodejs,nextjs,react,tailwind,firebase" />
-</p>
-
----
-
 # 🤝 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/anusqasim" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
-</a>
-</p>
-
 📫 Email: **muhammadanusqasim272@gmail.com**
+
+🔗 LinkedIn: **linkedin.com/in/anusqasim**
 
 ---
 
@@ -149,5 +106,5 @@
 ---
 
 <p align="center">
-  ⭐ Building scalable systems and growing as a Cloud Data Engineer ⭐
+  ⭐ Growing as a Cloud & Data Engineer ⭐
 </p>
